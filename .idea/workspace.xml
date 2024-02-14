@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6500c5-41f5-47da-b1c9-1cf1087f056e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DRY/DRYPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DesignPatterns/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID/DependencyInversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID/InterfaceSegregation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID/LiskovSubstitution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID/OpenClosed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID/SingleResponsibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID/notes.md" afterDir="false" />
-    </list>
+    <list default="true" id="0b6500c5-41f5-47da-b1c9-1cf1087f056e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707893389802</updated>
-      <workItem from="1707893390979" duration="4949000" />
+      <workItem from="1707893390979" duration="5261000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package DesignPatterns.Strategy;
+package DesignPatterns.Strategy.Example;
 
 public class ConcreteStrategyMultiply implements Strategy {
     @Override

@@ -1,4 +1,4 @@
-package DesignPatterns.Strategy;
+package DesignPatterns.Strategy.Example;
 
 public class Context {
     private Strategy strategy;

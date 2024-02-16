@@ -2,7 +2,6 @@ package DesignPatterns.Strategy.Example;
 
 public class Context {
     private Strategy strategy;
-
     public Context() {
     }
     public void setStrategy(Strategy strategy) {

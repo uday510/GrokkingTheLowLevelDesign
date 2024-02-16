@@ -1,7 +1,7 @@
 package DesignPatterns.Observor.Newspaper;
 
 public class Subscriber implements Observer {
-    private String name;
+    private final String name;
 
     public Subscriber(String name) {
         this.name = name;

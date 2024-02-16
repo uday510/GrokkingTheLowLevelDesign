@@ -6,8 +6,8 @@ public class Main {
         Newspaper newspaper = new Newspaper();
 
         // Create subscribers (observers)
-        Observer subscriber1 = new Subscriber("Subsciber1");
-        Observer subscriber2 = new Subscriber("Subsciber2");
+        Observer subscriber1 = new Subscriber("Subscriber1");
+        Observer subscriber2 = new Subscriber("Subscriber2");
 
 
         // Add the subscribers to the newspaper
@@ -15,7 +15,6 @@ public class Main {
         newspaper.addObserver(subscriber2);
 
         // Notify the subscribers
-
         newspaper.notifyObservers("This is the first news");
 
         // Remove a subscriber

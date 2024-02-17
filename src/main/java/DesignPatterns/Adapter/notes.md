@@ -1,0 +1,5 @@
+The Adapter pattern is a structural design pattern that allows incompatible interfaces to work together.
+It acts as a bridge between two incompatible interfaces by converting the interface of a class into another 
+interface that a client expects. This pattern involves a single class called the adapter, which is responsible 
+for joining functionalities of independent or incompatible interfaces.
+
